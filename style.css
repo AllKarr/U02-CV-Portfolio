@@ -127,9 +127,6 @@ table th, table td {
 }
 
 @media (max-width: 768px) {
-  header {
-    align-items: right;
-  }
   header nav ul {
     margin-left: -7%;
   }
